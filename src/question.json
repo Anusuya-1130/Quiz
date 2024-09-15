@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of France?",
+    "options": ["Paris", "Berlin", "Madrid", "Rome"],
+    "correctOption": "Paris"
+  },
+  {
+    "id": 2,
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "options": [
+      "Marie Antoinette",
+      "Grace Hopper",
+      "Victoria Woodhull",
+      "Albert Einstein"
+    ],
+    "correctOption": "Marie Antoinette"
+  },
+  {
+    "id": 3,
+    "question": "What is the largest ocean in the world?",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Southern Ocean"
+    ],
+    "correctOption": "Pacific Ocean"
+  }
+]
